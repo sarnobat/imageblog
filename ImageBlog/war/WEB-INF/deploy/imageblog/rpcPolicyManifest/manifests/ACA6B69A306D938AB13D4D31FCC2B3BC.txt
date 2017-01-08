@@ -1,0 +1,2 @@
+serviceClass: com.rohidekar.imageblog.client.GreetingService
+path: 41A25F193D0ACDC17F3E996C53430F83.gwt.rpc
